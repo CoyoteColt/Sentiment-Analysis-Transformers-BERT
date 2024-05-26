@@ -53,9 +53,9 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## Results
 
-<img src="https://cdn.discordapp.com/attachments/809675955689881640/1229101824796266596/image.png?ex=66423bc6&is=6640ea46&hm=db26d4c00029d0dd372169f28a5dd47e1afcfc797e49d7d5844fb1a726b1b81a&" alt="Model Transformers"><br>
-<img src="https://cdn.discordapp.com/attachments/809675955689881640/1229102166908735619/image.png?ex=66423c18&is=6640ea98&hm=30abc328a92ef0fae5691af707facdfce218c69b792b67056e81a7a43682bbe1&" alt="Model Transformers"><br>
-<img src="https://cdn.discordapp.com/attachments/809675955689881640/1229102483419168799/image.png?ex=66423c63&is=6640eae3&hm=ecdb5dbe6c3b1939b86b78dbcad456023177dfb159ec2ad77b6d2ba6e8d9b3a0&" alt="Model Transformers"><br>
+<img src="https://cdn.discordapp.com/attachments/1244375681962344478/1244411318262431805/2.png?ex=665503da&is=6653b25a&hm=227794f66936cb6ee65a3b91363498058b163b5998149f7f762a2b2d973613ba&" alt="Model Transformers"><br>
+<img src="https://cdn.discordapp.com/attachments/1244375681962344478/1244411337946431641/3.png?ex=665503df&is=6653b25f&hm=dd02ae128fbb02598abe50e11809cfd74bfd902bbc05b042551d88106680ecd8&" alt="Model Transformers"><br>
+<img src="https://cdn.discordapp.com/attachments/1244375681962344478/1244411356233465917/4.png?ex=665503e3&is=6653b263&hm=4d24d4491f547909ecd6e220c7a49f15cebb37c973a54b30017a497cfaa88700&" alt="Model Transformers"><br>
 
 - In our last model we achieved an accuracy of 92% with almost 40 minutes of CPU training, without a doubt the best model, right? Or maybe not?.
 
@@ -66,7 +66,7 @@ In this sentiment analysis project we approached three different architectures, 
 ## If you want to reproduce the experiment on your machine, below are the versions used
 It is worth noting that I trained this last model in a Linux environment since the version of Tensorflow 2.15.0 at the time I created the project did not have support for GPU for Windows. But for information purposes, I ran the model on the CPU to get an idea of ​​the total time.
 
-<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227734807627173938/image.png?ex=6641dfe4&is=66408e64&hm=0c510b6efb1e5888cedc0f9007bd894c21e9d4534de7322156470703aba210c6&" alt="version"><br>
+<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244371114491252766/4.png?ex=6654de68&is=66538ce8&hm=fbedf120be4ac48b0257c8274caf3b166cf76bf0aaca0caca1371bd4b6473ce1&" alt="version"><br>
 
 
 
