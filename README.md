@@ -53,9 +53,9 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## Results
 
-<img src="https://cdn.discordapp.com/attachments/1244375681962344478/1244411318262431805/2.png?ex=665503da&is=6653b25a&hm=227794f66936cb6ee65a3b91363498058b163b5998149f7f762a2b2d973613ba&" alt="Model Transformers"><br>
-<img src="https://cdn.discordapp.com/attachments/1244375681962344478/1244411337946431641/3.png?ex=665503df&is=6653b25f&hm=dd02ae128fbb02598abe50e11809cfd74bfd902bbc05b042551d88106680ecd8&" alt="Model Transformers"><br>
-<img src="https://cdn.discordapp.com/attachments/1244375681962344478/1244411356233465917/4.png?ex=665503e3&is=6653b263&hm=4d24d4491f547909ecd6e220c7a49f15cebb37c973a54b30017a497cfaa88700&" alt="Model Transformers"><br>
+<img src="https://cdn.discordapp.com/attachments/1244375681962344478/1244411318262431805/2.png?ex=665a49da&is=6658f85a&hm=af5c151da166762f3cb8b20edb7ff7c86c7b28fa1635b77cfa21a573be79afc7&" alt="Model Transformers"><br>
+<img src="https://cdn.discordapp.com/attachments/1244375681962344478/1244411337946431641/3.png?ex=665a49df&is=6658f85f&hm=e61d2828b6640463ac8af288bbe05ef1b2f4975f7cf6e7190caeb2f6592b500b&" alt="Model Transformers"><br>
+<img src="https://cdn.discordapp.com/attachments/1244375681962344478/1244411356233465917/4.png?ex=665a49e3&is=6658f863&hm=62b4a3e8ec74f046bbf75212ebf9a7e8dccbce6fd958cfa1c4e9b19c46688a1a&" alt="Model Transformers"><br>
 
 - In our last model we achieved an accuracy of 92% with almost 40 minutes of CPU training, without a doubt the best model, right? Or maybe not?.
 
