@@ -23,7 +23,7 @@ The Transformer architecture, introduced in the paper "Attention is All You Need
 Furthermore, the completely attention-based structure of Transformers allows for more efficient parallelization compared to RNNs and CNNs. This means Transformers can be trained faster and scaled to larger data sets, making them more practical for real-world applications. Another crucial aspect is the use of pre-trained language models, such as GPT (Generative Pre-trained Transformer) and BERT (Bidirectional Encoder Representations from Transformers), in this last part of the project we will use BERT. These pre-trained models can be fine-tuned for specific tasks with relatively little training data, making them highly efficient in a variety of NLP tasks such as text classification, machine translation, and text generation. Transformers have the ability to model long-range contexts in text sequences. This means they can capture complex semantic relationships and temporal dependencies, making them suitable for a wide range of NLP tasks that require a deep understanding of context.<br>
 I made a small introduction briefly explaining how the attention function works without using a framework. If you want to follow along, just click on the link <a href="https://github.com/CoyoteColt/Attention-Is-All-You-Need">Attention is All You Need-A Brief explanation</a>
 
-<img src="https://maquinasqueaprendem.files.wordpress.com/2023/05/transformers.jpg" alt="Attention Mechanism">
+<img src="image\1.png" alt="Attention Mechanism">
 
 ## Techniques used for data processing in the Transformers model
 
@@ -53,9 +53,9 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## Results
 
-<img src="https://cdn.discordapp.com/attachments/1244375681962344478/1244411318262431805/2.png?ex=665a49da&is=6658f85a&hm=af5c151da166762f3cb8b20edb7ff7c86c7b28fa1635b77cfa21a573be79afc7&" alt="Model Transformers"><br>
-<img src="https://cdn.discordapp.com/attachments/1244375681962344478/1244411337946431641/3.png?ex=665a49df&is=6658f85f&hm=e61d2828b6640463ac8af288bbe05ef1b2f4975f7cf6e7190caeb2f6592b500b&" alt="Model Transformers"><br>
-<img src="https://cdn.discordapp.com/attachments/1244375681962344478/1244411356233465917/4.png?ex=665a49e3&is=6658f863&hm=62b4a3e8ec74f046bbf75212ebf9a7e8dccbce6fd958cfa1c4e9b19c46688a1a&" alt="Model Transformers"><br>
+<img src="image\2.png" alt="Model Transformers"><br>
+<img src="image\3.png" alt="Model Transformers"><br>
+<img src="image\4.png" alt="Model Transformers"><br>
 
 - In our last model we achieved an accuracy of 92% with almost 40 minutes of CPU training, without a doubt the best model, right? Or maybe not?.
 
@@ -66,7 +66,7 @@ In this sentiment analysis project we approached three different architectures, 
 ## If you want to reproduce the experiment on your machine, below are the versions used
 It is worth noting that I trained this last model in a Linux environment since the version of Tensorflow 2.15.0 at the time I created the project did not have support for GPU for Windows. But for information purposes, I ran the model on the CPU to get an idea of ​​the total time.
 
-<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244371114491252766/4.png?ex=6654de68&is=66538ce8&hm=fbedf120be4ac48b0257c8274caf3b166cf76bf0aaca0caca1371bd4b6473ce1&" alt="version"><br>
+<img src="image\version.png" alt="version"><br>
 
 
 
